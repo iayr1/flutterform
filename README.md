@@ -17,7 +17,7 @@
   <li><strong>Clone the Repository</strong>: Clone this repository to your local machine using Git.</li>
 </ol>
 
-<pre><code>git clone &lt;repository_url&gt;
+<pre><code>git clone &lt;https://wwww.github.com/iayr1/flutterform&gt;
 </code></pre>
 
 <ol>
